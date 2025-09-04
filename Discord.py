@@ -374,4 +374,4 @@ async def stop(interaction: discord.Interaction):
     await bot.close()
 
 # Botの起動
-bot.run("MTMzMTExNjUxMzUxMTM0NjI0Ng.GsmnxP.UP3i0i91h5ohy_967APgjYtjEjQ_YVz-3WvnPQ")
+bot.run("DISCORD_TOKEN")
